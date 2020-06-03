@@ -20,7 +20,7 @@ section
 section h2
 {
     position: relative;
-    font-size: 8em;
+    font-size: 10vw;
     color: #fff;
     z-index: 10000;
     mix-blend-mode: overlay;
